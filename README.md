@@ -1,5 +1,5 @@
-# meu-repositorio-2023
-Pesquisa e Inovação - Aula 04 prática 22/08 - Git &amp; Github SPTech.
+# PI-22-08-aula-03-Git-Github
+Pesquisa e Inovação - Aula 03 prática 22/08 - Git &amp; Github SPTech.
 
 Ateração Remota! (GitHub)🤪Hehe
 
