@@ -1,5 +1,5 @@
-# PI-22-08-aula-03-Git-Github
-Pesquisa e Inovação - Aula 03 prática 22/08 - Git &amp; Github SPTech.
+# SPTech | Pesquisa & Inovação - AULA 3 - 22/08/2023 
+Prática do Git &amp; Github.
 
 Ateração Remota! (GitHub)🤪Hehe
 
